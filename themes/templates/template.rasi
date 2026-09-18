@@ -1,0 +1,22 @@
+
+
+
+window {
+  transparency: true;
+
+}
+entry {
+  placeholder: "Search";
+  cursor: pointer;
+}
+
+element {
+  orientation: vertical;
+  children: [ element-icon, element-text ];
+}
+
+element-icon {
+  size: 38px;
+}
+
+

@@ -1,0 +1,9 @@
+* {
+bg0: #1e2019;
+bg1: #1e2019;
+bg2: #292b23;
+bg3: #e3e3d8;
+
+}
+
+@import "templates/template.rasi"
