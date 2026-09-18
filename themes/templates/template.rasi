@@ -64,7 +64,7 @@ entry {
 listview {
   enabled: true;
   columns: 1;
-  lines: 5;
+  lines: 6;
   scrollbar: false;
   dynamic: true;
   cycle: true;
@@ -92,7 +92,7 @@ element {
   spacing: 20px;
   border: 0px solid;
   border-radius: 12px;
-  padding: 10px;
+  padding: 5px;
   orientation: horizontal;
   text-color: @fg0;
   background-color: transparent;

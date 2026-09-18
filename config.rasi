@@ -162,6 +162,7 @@ modi: "drun,run";
 show-icons: true;
 icon-theme: "Papirus-Dark";
 drun-display-format: "{name}";
+font: "Google Sans";
 
 /* fuzzy finder for search */
 matching: "fuzzy";
